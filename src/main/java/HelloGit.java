@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("master");
         System.out.println("hotfix");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
